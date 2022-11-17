@@ -18,4 +18,4 @@ Q. 9.2) How many TV Shows got the 'R' rating, after year 2018 ?
 Q. 10) What is the maximum duration of a Movie/Show on Netflix ?
 Q. 11) Which individual country has the Highest No. of TV Shows ?
 Q. 12) How can we sort the dataset by Year ?
-Q. 13) Find all the instances where: Category is 'Movie' and Type is 'Dramas' or Category is 'TV Show' & Type is 'Kids' TV'.
+
